@@ -12,7 +12,7 @@
 * :white_check_mark: Let's Go, Alex Edwards
 * :hourglass: Powerful Command-Line Applications in Go,  Ricardo Gerardi
 * :white_large_square: Let's Go Further, Alex Edwards
-* :white_check_mark: Ultime Go Notebook, William Bill Kennedy - Also his courses are on my learning path.
-* :white_check_mark:Network Programming with Go, Adam Woodbeck 
+* :white_large_square: Ultime Go Notebook, William Bill Kennedy - Also his courses are on my learning path.
+* :white_large_square: Network Programming with Go, Adam Woodbeck 
 ...
 
