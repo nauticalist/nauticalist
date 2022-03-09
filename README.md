@@ -5,6 +5,7 @@
 
 **2022 Goals:**
 * :rocket: Learn Golang
+* :rocket: Learn block chain development with Golang
 * read more books then last year :)
 
 **:green_book: Books To Read about Go:**
