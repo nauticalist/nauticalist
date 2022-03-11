@@ -4,7 +4,7 @@
 :metal: Founded Seanapse Ou but dissolved the company due to double taxations issues. Probably this will result in new beginnings.
 
 <aside>
-🚢 [MY Resume](https://github.com/nauticalist/resume/blob/main/README.md).
+  [My Resume](https://github.com/nauticalist/resume/blob/main/README.md)
 </aside>
 
 **2022 Goals:**
