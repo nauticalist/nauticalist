@@ -8,7 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/ismailaksoy/)
 
 **My Articles:**
-[Accelerating VR Training Solution Development: Validating Value Proposition and Feature Set with UX, Storyboarding, and AI Tools](https://github.com/nauticalist/articles/blob/main/Accelerating%20VR%20Training%20Solution%20Development:%20Validating%20Value%20Proposition%20and%20Feature%20Set%20with%20UX,%20Storyboarding,%20and%20AI%20Tools.md)
+* [Accelerating VR Training Solution Development: Validating Value Proposition and Feature Set with UX, Storyboarding, and AI Tools](https://github.com/nauticalist/articles/blob/main/Accelerating%20VR%20Training%20Solution%20Development:%20Validating%20Value%20Proposition%20and%20Feature%20Set%20with%20UX,%20Storyboarding,%20and%20AI%20Tools.md)
 
 **2023 Goals:**
 * :rocket: Master Golang
